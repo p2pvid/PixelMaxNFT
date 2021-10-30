@@ -3,6 +3,7 @@ Auto-generate infinity NFT with infinity styles and upload on Near Marketplace
 
 - ✨Magic ✨
 
+Submitted hack: https://sbhack21.devpost.com/
 
 Demo/Video Link: https://www.youtube.com/watch?v=bghegsAdoCg
 
