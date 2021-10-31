@@ -9,8 +9,8 @@ const {
   layersOrder,
   format,
   baseUri,
-  description,
   background,
+  description,
   uniqueDnaTorrance,
   editionSize,
 } = require(`${basePath}/src/config.js`);
